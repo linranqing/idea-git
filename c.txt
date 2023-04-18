@@ -1,1 +1,1 @@
-github+c
+idea+c
